@@ -4,9 +4,9 @@ A repository containing code examples from [Data-Driven Refinement of Electronic
 
 
 ### Files
--`singlet_doublet`: Directory containing neutral singlet and doublet diatomic molecules using the STO-3G, 6-31G, and cc-pVDZ basis sets
--`triplet_quartet`: Directory containing neutral triplet and quartet diatomic molecules using the STO-3G, 6-31G, and cc-pVDZ basis sets
--`example.ipynb`: Jupyter notebook with examples on how to run the machine learning model and subsequent SHapley Additive exPlanation (SHAP) analysis
+- `singlet_doublet`: Directory containing neutral singlet and doublet diatomic molecules using the STO-3G, 6-31G, and cc-pVDZ basis sets
+- `triplet_quartet`: Directory containing neutral triplet and quartet diatomic molecules using the STO-3G, 6-31G, and cc-pVDZ basis sets
+- `example.ipynb`: Jupyter notebook with examples on how to run the machine learning model and subsequent SHapley Additive exPlanation (SHAP) analysis
 
 
 ### Citation:
