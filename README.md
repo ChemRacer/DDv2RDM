@@ -1,5 +1,5 @@
 # Data-Driven Variational Two-Electron Reduced-Density-Matrix (DDv2RDM) 
-![TOC](https://pubs.acs.org/cms/10.1021/acs.jpclett.3c01382/asset/images/large/jz3c01382_0006.jpeg)
+![TOC](Jones23_DDv2RDM_TOC.png)
 A repository containing code examples from [Data-Driven Refinement of Electronic Energies from Two-Electron Reduced-Density-Matrix Theory](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c01382)
 
 
